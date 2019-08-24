@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chords">
+        <item>C Major</item>
+        <item>D Major</item>
+        <item>E Major</item>
+        <item>F Major</item>
+        <item>G Major</item>
+        <item>A Major</item>
+        <item>B Major</item>
+        <item>C# Major</item>
+        <!--<item>Db Major</item>
+        <item>D# Major</item>
+        <item>Eb Major</item>
+        <item>F# Major</item>
+        <item>Gb Major</item>
+        <item>G# Major</item>
+        <item>Ab Major</item>
+        <item>A# Major</item>
+        <item>Bb Major</item>-->
+    </string-array>
+</resources>

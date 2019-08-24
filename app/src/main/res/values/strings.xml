@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChordsPractice</string>
+    <string name="find_me_a_new_chord">find me a new chord</string>
+    <string name="some_chord_name">C Major</string>
+</resources>
