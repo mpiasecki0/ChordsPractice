@@ -7,5 +7,5 @@ This Java Android application randomly displays and shows how to play a piano ch
 
 
 ### Prerequisites
-This Project requires Java 8 SDK and the Build Tool Gradle to deploy.
+This project requires Java 8 SDK and the Build Tool Gradle to deploy.
 Having Android Studio is definitely a good idea to simply import and customize this project.
